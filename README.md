@@ -1,6 +1,6 @@
 <img src="github-header-image.png" />
 
-<div align="center">
+<div style="display:flex;">
 
 <img height="160" src="https://readme-stats-fast.vercel.app/api?username=kennizen&show_icons=true&theme=github_dark_dimmed&count_private=true"/>
 
